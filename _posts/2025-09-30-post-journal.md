@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Soldering project"
 date: 2025-09-30T15:34:30-04:00
 categories:
   - Blog
