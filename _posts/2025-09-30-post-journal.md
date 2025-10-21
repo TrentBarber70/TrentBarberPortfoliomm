@@ -1,0 +1,11 @@
+---
+title: "Post: Notice"
+date: 2025-09-30T15:34:30-04:00
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - notice
+---
+
+Today Mr. Dubick gave us a light up owl soldering kit to make the class practice our soldering skills before we would apply them to our final projects. I began soldering the 60 LEDs because I wanted to get the through hole parts done first.
