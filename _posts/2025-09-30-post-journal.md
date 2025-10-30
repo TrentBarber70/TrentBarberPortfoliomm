@@ -12,6 +12,5 @@ Today Mr. Dubick gave us a light up owl soldering kit to make the class practice
 
 Day 1: I began soldering the 60 LEDs because I wanted to get the through hole parts done first.
 
+
 ![09/30/25](/assets/images/IMG_0607.jpg)
-
-
