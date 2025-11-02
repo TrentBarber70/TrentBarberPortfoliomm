@@ -80,7 +80,6 @@ Issues:
 
 When I first began to work on the Maker cam files, My teacher's slides that I used for refernce were incorect because the dimensions of the material were worng. Then when  fixed this issue I began to repeat the steps to make the file and when I started the machine it did not cut all the way through becasue I forgot to chaneg the cutting depth to 1.7 in on the contour path. Then when I fixed this previous issue then I ran into another problem, I had forgotten to calculte the drill path when I had changed the contour path and the holes in the PCB were not drilled. After all of the setbacks previously mentiond I took my time and fixed all the mistakes and ran the G-code a final time and recieved a sucessful PCB. 
 
-Download G-code here
 <p>
   <a href="{{ '/Barberresistor2.nc' | relative_url }}" download>Download G‑code: Barberresistor2.nc</a>
 </p>
