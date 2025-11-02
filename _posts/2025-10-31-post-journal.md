@@ -11,13 +11,13 @@ tags:
 Today my teacher wanted us to learn how to use the new CNC machines in the Fab Lab. We began by following Mr. Dubicks workflow to learn and create our first PCB with the new machines. This is the workflow reproduced by me.
 
 Firstly open the Maker Cam app and select 3 axis project 
-![Screenshot 2025-10-31 151448](/assets/images/Screenshot%202025-10-31%20151448.png)
+![Screenshot 2025-10-31 151448]({{ '/assets/images/Screenshot%202025-10-31%20151448.png' | relative_url }})
 
 when the project field is open, change the x, y, and z values of the PCB to match the size of it in real life. For this project the values are 127x101x1.7mm. 
  
-![Screenshot 2025-10-31 151448](/assets/images/Screenshot%202025-10-31%20151448.png)
+![Screenshot 2025-10-31 151448]({{ '/assets/images/Screenshot%202025-10-31%20151448.png' | relative_url }})
 
-![Screenshot 2025-10-31 151459](/assets/images/Screenshot%202025-10-31%20151459.png)
+![Screenshot 2025-10-31 151459]({{ '/assets/images/Screenshot%202025-10-31%20151459.png' | relative_url }})
 
 Then select file and then import PCB then selct your edge cuts and drill files into the editor. 
 After inserting all of the files the PCB is not visible from the workspace. 
