@@ -27,8 +27,6 @@ After inserting all of the files the PCB is not visible from the workspace.
 
 Scroll out from the workspace and drag the mouse around the object to select it. Then press the M key to move the obeject and set the anchor point to the left bottom corner of the PCB and change the location of the X and Y to 6mm by 6mm.
 
-<img src="{{ '/assets/images/IMG_0659.jpg' | relative_url }}" alt="IMG_0659" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
-
 <img src="{{ '/assets/images/Screenshot%202025-10-31%20151626.png' | relative_url }}" alt="Screenshot 2025-10-31 151626" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
 
 Once that is finished select the icon that is labeled 2D paths and from there select 2D Pocket to cut the paths out for the PCB. Make sure to keep everything visble execpt the drill holes and the pads when creating the pocket. Make sure to unselect the top line of the edge cut. Change the cutting depth to 0.05 mm and then add the 0.8mm corn tool and the 0.2mm engraving tool. after that select calculate. 
@@ -74,3 +72,7 @@ Then open the Carvera app on the computer connected the Carvera CNC machine and 
 <img src="{{ '/assets/images/Screenshot%202025-10-31%20153318.png' | relative_url }}" alt="Screenshot 2025-10-31 153318" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
 <img src="{{ '/assets/images/Screenshot%202025-10-31%20153328.png' | relative_url }}" alt="Screenshot 2025-10-31 153328" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
 <img src="{{ '/assets/images/Screenshot%202025-10-31%20153353.png' | relative_url }}" alt="Screenshot 2025-10-31 153353" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
+
+Then you're done.
+<img src="{{ '/assets/images/IMG_0659.jpg' | relative_url }}" alt="IMG_0659" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
+
