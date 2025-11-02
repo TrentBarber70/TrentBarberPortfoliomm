@@ -8,5 +8,5 @@ tags:
   - notice
 ---
 
-Today my teacher wante us to learn how to use the new CNC machines in the Fab Lab. We began by following Mr. Dubicks workflow to
+Today my teacher wanted us to learn how to use the new CNC machines in the Fab Lab. We began by following Mr. Dubicks workflow to
 learn and create our first pcb with the new machines. 
