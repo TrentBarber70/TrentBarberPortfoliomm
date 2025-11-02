@@ -9,4 +9,4 @@ tags:
 ---
 
 Today my teacher wante us to learn how to use the new CNC machines in the Fab Lab. We began by following Mr. Dubicks workflow to
-leanr and create our first pcb with the new machines. 
+learn and create our first pcb with the new machines. 
