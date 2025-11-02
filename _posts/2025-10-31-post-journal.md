@@ -8,7 +8,7 @@ tags:
   - notice
 ---
 
-Today my teacher wanted us to learn how to use the new CNC machines in the Fab Lab. We began by following Mr. Dubicks workflow to learn and create our first PCB with the new machines. This is the workflow reproduced by me.
+Today my teacher wanted us to learn how to use the new CNC machines in the Fab Lab. The PCB is for us to practice though-hole soldering with resistors and LEDs. We began by following Mr. Dubicks workflow to learn and create our first PCB with the new machines. This is the workflow reproduced by me.
 
 Firstly open the Maker Cam app and select 3 axis project 
 <img src="{{ '/assets/images/Screenshot%202025-10-31%20151448.png' | relative_url }}" alt="Screenshot 2025-10-31 151448" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
@@ -76,3 +76,6 @@ Then open the Carvera app on the computer connected the Carvera CNC machine and 
 Then you're done.
 <img src="{{ '/assets/images/IMG_0659.jpg' | relative_url }}" alt="IMG_0659" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
 
+Issues:
+
+When I first began to work on the Maker cam files, My teacher's slides that I used for refernce were incorect because the dimensions of the material were worng. Then when  fixed this issue I began to repeat the steps to make the file and when I started the machine it did not cut all the way through becasue I forgot to chaneg the cutting depth to 1.7 in on the contour path. Then when I fixed this previous issue then I ran into another problem, I had forgotten to calculte the drill path when I had changed the contour path and the holes in the PCB were not drilled. After all of the setbacks previously mentiond I took my time and fixed all the mistakes and ran the G-code a final time and recieved a sucessful PCB. 
