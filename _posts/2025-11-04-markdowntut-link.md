@@ -1,7 +1,7 @@
 ---
 title: "Markdown tutorial"
 date: 2025-11-04
-categories
+categories:
   - Tutorial 
 tags:
   - Github
