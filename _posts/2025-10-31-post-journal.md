@@ -1,6 +1,6 @@
 ---
 title: "Carvera CNC machine"
-date: 2025-10-31T15:34:30-04:00
+date: 2025-10-31
 categories:
   - Blog
 tags:
