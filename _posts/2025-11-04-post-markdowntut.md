@@ -7,3 +7,13 @@ tags:
   - Github
   - Markdown
 ---
+
+**This is text**
+
+*italics*
+
+__bold version 2__
+
+**_bold and italics_**
+
+``This is strikethrough``
