@@ -16,6 +16,8 @@ when the project field is open, change the x, y, and z values of the PCB to matc
 
 ![Screenshot 2025-10-31 151459](/assets/images/Screenshot%202025-10-31%20151459.png)
 
+<img src="/assets/images/Screenshot%202025-10-31%20151448.png" alt="Screenshot 2025-10-31 151448" width="500">
+
 Then select file and then import PCB then selct your edge cuts and drill files into the editor. 
 After inserting all of the files the PCB is not visible from the workspace. 
 
