@@ -91,17 +91,7 @@ This project taught me the importance of doing the little things to a T becasue 
 
 ## Links for all files
 
-<p>
-  <a href="{{ '/Resistance1-Edge_Cuts.gbr' | relative_url }}" download>Download Edge cuts: Resistance1-Edge_Cuts.gbr</a>
-</p>
-
-<p>
-  <a href="{{ '/Resistance1-F_Cu.gbr' | relative_url }}" download>Download Front copper layer: Resistance1-F_Cu.gbr</a>
-</p>
-
-<p>
-  <a href="{{ '/Resistance1-PTH.drl' | relative_url }}" download>Download drill: Resistance1-PTH.drl</a>
-</p>
+Download KiCad Files [Here](/assets/images/PCBfiles/Resistance1-F_Cu.zip)
 
 Final CNC file 
 <p>
