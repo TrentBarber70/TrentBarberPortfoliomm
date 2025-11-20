@@ -92,9 +92,16 @@ This project taught me the importance of doing the little things to a T becasue 
 ## Links for all files
 
 <p>
-  <a href="{{ '/C:\Users\engineering\Documents\GitHub\TrentBarberPortfoliomm\assets\images\PCBfiles' | relative_url }}" download>Download G‑code: Barberresistor2.nc</a>
+  <a href="{{ '/Resistance1-Edge_Cuts.gbr' | relative_url }}" download>Download Edge cuts: Resistance1-Edge_Cuts.gbr</a>
 </p>
 
+<p>
+  <a href="{{ '/Resistance1-F_Cu.gbr' | relative_url }}" download>Download Front copper layer: Resistance1-F_Cu.gbr</a>
+</p>
+
+<p>
+  <a href="{{ '/Resistance1-PTH.drl' | relative_url }}" download>Download drill: Resistance1-PTH.drl</a>
+</p>
 
 Final CNC file 
 <p>
