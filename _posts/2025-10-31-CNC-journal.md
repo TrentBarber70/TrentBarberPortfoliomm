@@ -80,6 +80,23 @@ Issues:
 
 When I first began to work on the Maker cam files, My teacher's slides that I used for refernce were incorect because the dimensions of the material were worng. Then when  fixed this issue I began to repeat the steps to make the file and when I started the machine it did not cut all the way through becasue I forgot to chaneg the cutting depth to 1.7 in on the contour path. Then when I fixed this previous issue then I ran into another problem, I had forgotten to calculte the drill path when I had changed the contour path and the holes in the PCB were not drilled. After all of the setbacks previously mentiond I took my time and fixed all the mistakes and ran the G-code a final time and recieved a sucessful PCB. 
 
+
+# Summary
+While milling this PCB I learned how to use the new Carvera CNC machines in the Fab Lab. We began by using the files that Mr. Dubick provided we had to learn how to use the Makera Cam software. The reason that we are now using the Maker Cam software is so that we can use the files in the Carvera CNC machine. The reason that we are using the Carvera CNC machine over the older Othermill and Bantam desktop CNC machines is because the Carvera CNC makes CNC more efficient because it can swap its own tool heads. With the machine being able to swap its tool heads it can allow students to other things while the machine performs cuts while unattended. The new Carvera CNC machines are great tools to help the fablab become more effcient and allow us to rapidly finish projects.
+
+When I went to create the PCB from the example files that Mr. Dubick provided I ran into a few issues. When I created the tabs for the PCB I had forgotten to click on the inner edge of the edge cut and did not see it in the preview. When I went to cut my PCB it cut halfway through the board because I set the cutting depth to 1. Then when I cut the board out the second time the tabs would not cut out.  I then repeated the steps to make the tabs and relized I had forgotten a key part. I forgot to set tabs to custom and select the tabs to go on the outside of the edge cut. I then fixed these issues and had milled my first sucessfull PCB Board. 
+
+This project taught me the importance of doing the little things to a T becasue had I focused and made sure to follow all directions I would have been sucessful on the first try. The Carvera CNC machine is great because it swaps its tool heads automatically and makes milling PCB boards quicker. This week we are working on creating wooden models of moutain ranges using the Carvera CNC mahcine. The mountain range that we will cut out with the CNC machine starts out as an stl file and then we take it into Aspire to create the g-code for the model. I enjoy how versatile the machine is I can't wait to see what else I will make with the new CNC machines. 
+
+
+## Links for all files
+
+<p>
+  <a href="{{ '/C:\Users\engineering\Documents\GitHub\TrentBarberPortfoliomm\assets\images\PCBfiles' | relative_url }}" download>Download G‑code: Barberresistor2.nc</a>
+</p>
+
+
+Final CNC file 
 <p>
   <a href="{{ '/Barberresistor2.nc' | relative_url }}" download>Download G‑code: Barberresistor2.nc</a>
 </p>
