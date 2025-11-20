@@ -91,7 +91,9 @@ This project taught me the importance of doing the little things to a T becasue 
 
 ## Links for all files
 
-Download KiCad Files [Here](https://github.com/TrentBarber70/TrentBarberPortfoliomm/blob/master/Resistance1-F_Cu.zip)
+<p>
+  <a href="{{ '/assets/images/PCBfiles/Resistance1-F_Cu.zip' | relative_url }}" download>Download KiCad files (ZIP)</a>
+</p>
 
 Final CNC file 
 <p>
