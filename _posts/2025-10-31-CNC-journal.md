@@ -97,5 +97,5 @@ This project taught me the importance of doing the little things to a T becasue 
 
 Final CNC file 
 <p>
-  <a href="{{ '/Barberresistor2.nc' | relative_url }}" download>Download G‑code: Barberresistor2.nc</a>
+  <a href="{{ '/TrentBarber67buttoncounter.ino>Download‑code: TrentBarber67buttoncounter.ino
 </p>
