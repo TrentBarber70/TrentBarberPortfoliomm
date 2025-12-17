@@ -1,4 +1,4 @@
-# Journal 12-11
+# Journal 12-15-2025
 
 ## Creating a solenoid
 
