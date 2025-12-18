@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Journal 11-10-2025"
-date: 2025-11-10
+categories:
+  - Blog
 ---
 # Journal 11-10-2025
 
