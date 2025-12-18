@@ -4,7 +4,6 @@ categories:
   - Blog
 ---
 
-# Journal 12-15-2025
 
 ## Creating a solenoid
 

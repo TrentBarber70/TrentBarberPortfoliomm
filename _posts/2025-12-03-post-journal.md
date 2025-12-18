@@ -4,7 +4,7 @@ categories:
   - Blog
 ---
 
-# Journal 12-03-2025
+
 
 ## Solenoid 
 

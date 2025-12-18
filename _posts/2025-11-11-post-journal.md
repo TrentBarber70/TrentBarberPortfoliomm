@@ -3,7 +3,6 @@ title: "Journal 11-11-2025"
 categories:
   - Blog
 ---
-# Journal 11-11-2025
 
 ## Scoring device 
 

@@ -4,7 +4,6 @@ categories:
   - Blog
 ---
 
-# Journal 11-13-2025
 
 ## Scoring device and Plunger 
 
