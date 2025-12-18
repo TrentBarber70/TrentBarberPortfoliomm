@@ -6,11 +6,11 @@ I have spent the last few days researching and creating the spools for a few "ex
 
 When I finished the solenoid I sanded down the ends of the wires to test for continuity 
 
-<img src="{{ 'assets\images\IMG_0676.jpg' | relative_url }}" alt="IMG_0677" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;"> 
+<img src="{{ '/assets/images/IMG_0676.jpg' | relative_url }}" alt="IMG_0677" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;"> 
 
 
 I used 12v of AA batteries hooked up in series to test this working solenoid.
 
-<img src="{{ 'assets\images\IMG_0677.jpg' | relative_url }}" alt="IMG_0677" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;"> 
+<img src="{{ '/assets/images/IMG_0677.jpg' | relative_url }}" alt="IMG_0677" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;"> 
 
 Video of the working Solenoid..
