@@ -6,14 +6,14 @@ I was inspired to start this project after viewing a video by Thepinballroom on 
 My project will be diferent from the source project because I plan to incorporate a multiball function into the pinball machine's gameplay that will also trigger a cutscene through an audio que. 
 
 ## Specifications 
-
+<a href="https://docs.google.com/document/d/1-ltgxIzuz0tkOvbU_GjGPMJ4mxg-FKCPhfN8WQ-nMWA/edit?tab=t.0">Specifications</a>
 
 ## What I've completed 
 
 As of today I have created the solenoid for the pinball machine, the plunger, a pop-up scorer, and an example housing for the pinball machine. 
 
 ## Bom
-
+<a href="https://docs.google.com/spreadsheets/d/19EQvHHPxPg1upf5Wbr9uvgJ0j7gkCCIl4bn_uJnjy8Q/edit?gid=0#gid=0">Specifications</a>
 
 ## Issues and Mistakes 
 
