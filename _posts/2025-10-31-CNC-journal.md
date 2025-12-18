@@ -88,14 +88,10 @@ When I went to create the PCB from the example files that Mr. Dubick provided I 
 
 This project taught me the importance of doing the little things to a T becasue had I focused and made sure to follow all directions I would have been sucessful on the first try. The Carvera CNC machine is great because it swaps its tool heads automatically and makes milling PCB boards quicker. This week we are working on creating wooden models of moutain ranges using the Carvera CNC mahcine. The mountain range that we will cut out with the CNC machine starts out as an stl file and then we take it into Aspire to create the g-code for the model. I enjoy how versatile the machine is I can't wait to see what else I will make with the new CNC machines. 
 
-
 ## Links for all files
 
 <p>
   <a href="{{ '/assets/images/PCBfiles/Resistance1-F_Cu.zip' | relative_url }}" download>Download KiCad files (ZIP)</a>
 </p>
 
-Final CNC file 
-<p>
-  <a href="{{ '/TrentBarber67buttoncounter.ino>Download‑code: TrentBarber67buttoncounter.ino
-</p>
+
