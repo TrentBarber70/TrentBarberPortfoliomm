@@ -13,7 +13,7 @@ My project will be diferent from the source project because I plan to incorporat
 As of today I have created the solenoid for the pinball machine, the plunger, a pop-up scorer, and an example housing for the pinball machine. 
 
 ## Bom
-<a href="https://docs.google.com/spreadsheets/d/19EQvHHPxPg1upf5Wbr9uvgJ0j7gkCCIl4bn_uJnjy8Q/edit?gid=0#gid=0">Specifications</a>
+<a href="https://docs.google.com/spreadsheets/d/19EQvHHPxPg1upf5Wbr9uvgJ0j7gkCCIl4bn_uJnjy8Q/edit?gid=0#gid=0">BOM</a>
 
 ## Issues and Mistakes 
 
@@ -21,3 +21,4 @@ Some issues that I've been having is the process in making a solenoid. Though I 
 
 ## My files 
 
+<a href="https://drive.google.com/drive/folders/1dUx14gw7HY6nLYMXidwanSBqCl0bzjTq?usp=drive_link">Drive link</a>
