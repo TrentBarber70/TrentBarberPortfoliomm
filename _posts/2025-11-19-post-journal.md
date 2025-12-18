@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Journal 11-19-2025"
+date: 2025-11-19
+---
+
 # Journal 11-19-2025
 
 ## Plunger 

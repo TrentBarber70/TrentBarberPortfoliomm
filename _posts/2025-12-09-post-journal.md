@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Journal 12-09-2025"
+date: 2025-12-09
+---
+
 # Journal 12-09-2025
 
 ## Solenoid 

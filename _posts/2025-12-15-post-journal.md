@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Journal 12-15-2025"
+date: 2025-12-15
+---
+
 # Journal 12-15-2025
 
 ## Creating a solenoid

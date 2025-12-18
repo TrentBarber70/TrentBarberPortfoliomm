@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Journal 11-10-2025"
+date: 2025-11-10
+---
 # Journal 11-10-2025
 
 ## Scoring device 
