@@ -13,11 +13,11 @@ I have begun work on making a scoring device that will react to the ball hitting
 Tools used 
 none 
 
-Items used 
-bread board 
-rapsberry pi pico
-Gumdrop LEDs
-Jumper wires
-Micro switches 
+- Items used 
+- bread board 
+- rapsberry pi pico
+- Gumdrop LEDs
+- Jumper wires
+- Micro switches 
 
 

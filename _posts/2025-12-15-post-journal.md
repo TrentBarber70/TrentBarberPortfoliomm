@@ -22,10 +22,10 @@ Video of the working Solenoid.
 
 
 Tools used 
-Drill
-Multimeter 
+- Drill
+- Multimeter 
 
 Items used 
-AA batteries 
-36 gauge copper wire 
-3D printed material 
+- AA batteries 
+- 36 gauge copper wire 
+- 3D printed material 

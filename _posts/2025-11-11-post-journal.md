@@ -14,8 +14,8 @@ Tools used
 none 
 
 Items used 
-bread board 
-rapsberry pi pico
-Gumdrop LEDs
-Jumper wires
-Micro switches 
+- bread board 
+- rapsberry pi pico
+- Gumdrop LEDs
+- Jumper wires
+- Micro switches 

@@ -34,15 +34,15 @@ Some issues that I've been having is the process in making a solenoid. Though I 
 ## Tools used or being used in the future
 
 __Machines__ 
-Bambu A1 3D printer 
-Soldering Iron
-Shopbot CNC
-Carvera CNC 
-Power Supply 
+- Bambu A1 3D printer 
+- Soldering Iron
+- Shopbot CNC
+- Carvera CNC 
+- Power Supply 
 
 __Tools and handtools__ 
-Drill
-Philips head screwdriver 
-Flathead screwdriver
-Multimeter 
+- Drill
+- Philips head screwdriver 
+- Flathead screwdriver
+- Multimeter 
 
