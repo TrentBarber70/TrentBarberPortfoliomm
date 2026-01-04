@@ -4,7 +4,7 @@ categories:
   - Blog
 ---
 
-## Scoring device 
+## Scoring device day 2
 
 I have finally got the device to add numbers. Each button now has its own value and will add that value while keeping memory of the previous values.
 
