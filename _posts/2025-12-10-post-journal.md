@@ -1,7 +1,7 @@
 ---
 title: "Journal 12-10-2025"
 categories:
-  - post 
+  - posT 
 ---
 
 

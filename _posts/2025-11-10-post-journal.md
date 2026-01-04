@@ -1,9 +1,7 @@
 ---
 title: "Journal 11-10-2025"
 categories:
-  - post
-tags:
-  -Journal
+  - postsss
 ---
 
 ## Scoring device day 1 

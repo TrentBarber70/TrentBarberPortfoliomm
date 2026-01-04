@@ -1,7 +1,7 @@
 ---
 title: "Journal 12-04-2025"
 categories:
-  - post
+  - post.
 ---
 
 ## Solenoid
