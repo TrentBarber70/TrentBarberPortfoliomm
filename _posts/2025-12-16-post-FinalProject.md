@@ -3,7 +3,15 @@
 ## Description 
 My project for the 2025-2026 Advance topics in Engineering course is a half-size Pinaball machine. 
 I was inspired to start this project after viewing a video by Thepinballroom on Youtube. I also was inspired by the 1999 NBA live pinball machine because I like how interactive it was with the user. 
-My project will be diferent from the source project because I plan to incorporate a multiball function into the pinball machine's gameplay that will also trigger a cutscene through an audio que. 
+My project will be diferent from the source project because I plan to incorporate a multiball function into the pinball machine's gameplay that will also trigger a cutscene through an audio cue. 
+
+## Original project 
+<a href="https://thepinballroom.com/diy-pinball">Original project</a>
+<img src="{{ '/assets/images/Pinballroomcabinet.png' | relative_url }}" alt="Pinballroomcabinet" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;"> 
+
+## NBA Fastbreak
+<img src="{{ '/assets/images/NBAFastbreak.jpg' | relative_url }}" alt="NBAFastbreak" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;"> 
+
 
 ## Specifications 
 <a href="https://docs.google.com/document/d/1-ltgxIzuz0tkOvbU_GjGPMJ4mxg-FKCPhfN8WQ-nMWA/edit?tab=t.0">Specifications</a>
