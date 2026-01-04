@@ -30,3 +30,19 @@ Some issues that I've been having is the process in making a solenoid. Though I 
 ## My files 
 
 <a href="https://drive.google.com/drive/folders/1dUx14gw7HY6nLYMXidwanSBqCl0bzjTq?usp=drive_link">Drive link</a>
+
+## Tools used or being used in the future
+
+__Machines__ 
+Bambu A1 3D printer 
+Soldering Iron
+Shopbot CNC
+Carvera CNC 
+Power Supply 
+
+__Tools and handtools__ 
+Drill
+Philips head screwdriver 
+Flathead screwdriver
+Multimeter 
+
