@@ -1,7 +1,7 @@
 ---
 title: "Journal 11-19-2025"
 categories:
-  - Blog
+  - post s
 ---
 
 ## Plunger 

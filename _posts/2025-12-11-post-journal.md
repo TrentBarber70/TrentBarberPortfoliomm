@@ -1,7 +1,7 @@
 ---
 title: "Journal 12-11-2025"
 categories:
-  - Blog
+  - post 
 ---
 
 

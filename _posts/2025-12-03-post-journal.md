@@ -1,10 +1,8 @@
 ---
 title: "Journal 12-03-2025"
 categories:
-  - Blog
+  - postss
 ---
-
-
 
 ## Solenoid 
 
