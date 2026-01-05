@@ -84,6 +84,13 @@ I then took the finalized topograpghy and used the bandsaw to cut off the chin t
 
 <img src="{{ '/assets/images/IMG_0684.jpg' | relative_url }}" alt="IMG_0684" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
 
+## Summary 
+The topograpghy map project was used to help us further learn how to use the carvera CNC machines. Mr. Dubick first taught us using Dr. Taylor's workflow how to create the topograpghy map. To start I picked a random mountain range that I found using the generator and tested the stl by printing it. Then I took those files and used Aspire to make the CNC file for the carvera CNC machine to use. After loading the file onto the CNC machine and using test points I started the job and it was done in 1 hour. I then took the finished part and used the ban saw to cut off the chin that came with the cut from the CNC machine. 
+
+I had no issues other than the chin that was attached to the piece and I corrected this issue with the ban saw.
+
+This project showed me how the CNC machine can be used in many different ways other than cutting out PCBs. Prior to this project I thought that the CNC machine could only cut on a 2D plane but this project showed me that the CNC machine can cut complex geometry and create cool shapes and designs.
+
 Video of the CNC machine 
 
 <video controls width="640">
