@@ -38,11 +38,11 @@ Some issues that I've been having is the process in making a solenoid. Though I 
 </p>
 
 <p>
-  <a href="{{ 'assets\STL\Solenoid.zip' | relative_url }}" download>Solenoid spool STL files</a>
+  <a href="{{ '/assets/STL/Solenoid.zip' | relative_url }}" download>Solenoid spool STL files</a>
 </p>
 
 <p>
-  <a href="{{ 'assets\Code\Counter.zip' | relative_url }}" download>67 Counter</a>
+  <a href="{{ '/assets/Code/Counter.zip' | relative_url }}" download>67 Counter</a>
 </p>
 
 
