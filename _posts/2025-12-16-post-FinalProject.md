@@ -30,11 +30,11 @@ Some issues that I've been having is the process in making a solenoid. Though I 
 ## My files 
 
 <p>
-  <a href="{{ 'assets\STL\Back panel v6.stl' | relative_url }}" download>Cabinet STL files</a>
+  <a href="{{ '/assets/STL/Back panel v6.stl' | relative_url }}" download>Cabinet STL files</a>
 </p>
 
 <p>
-  <a href="{{ 'assets\STL\Plunger.zip' | relative_url }}" download>Plunger STL files</a>
+  <a href="{{ '/assets/STL/Plunger.zip' | relative_url }}" download>Plunger STL files</a>
 </p>
 
 <p>
