@@ -20,7 +20,7 @@ Videos here
 </video>
 
 Tools used 
-none 
+- none 
 
 Items used 
 - bread board 
