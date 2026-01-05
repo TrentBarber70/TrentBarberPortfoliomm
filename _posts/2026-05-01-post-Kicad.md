@@ -1,7 +1,7 @@
 ---
 title: "Journal 01-5-2026"
 categories:
-  - Blog
+  - Blogg
 ---
 
 ## Kicad Homework 
