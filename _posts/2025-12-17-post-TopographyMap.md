@@ -80,7 +80,7 @@ Then open the Carvera app on the computer connected the Carvera CNC machine and 
 
 <img src="{{ '/assets/images/Screenshot%202025-10-31%20153353.png' | relative_url }}" alt="Screenshot 2025-10-31 153353" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
 
-I Then took the finalized topograpghy and used the bandsaw to cut off the chin that came with the cnc cut because I aligned the stl on the left corner of the pine wood block.
+I then took the finalized topograpghy and used the bandsaw to cut off the chin that came with the cnc cut because I aligned the stl on the left corner of the pine wood block.
 
 <img src="{{ '/assets/images/IMG_0684.jpg' | relative_url }}" alt="IMG_0684" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
 
@@ -89,3 +89,15 @@ Video of the CNC machine
 <video controls width="640">
   <source src="{{ site.baseurl }}/assets/videos/Topographycnc.mp4" type="video/mp4">
 </video>
+
+My files 
+
+STL
+<p>
+  <a href="{{ '/assets/STL/Topography/TrentBarbermountain.3mf' | relative_url }}" download>Topography STL file</a>
+</p>
+
+CNC
+<p>
+  <a href="{{ '/assets/CNC/Mountainsinvirginabarber (1).cnc' | relative_url }}" download>Topgraphy CNC file</a>
+</p>
