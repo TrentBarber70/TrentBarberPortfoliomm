@@ -87,6 +87,5 @@ I Then took the finalized topograpghy and used the bandsaw to cut off the chin t
 Video of the CNC machine 
 
 <video controls width="640">
-  <source src="/assets/videos/Topographycnc.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="{{ site.baseurl }}/assets/videos/Topographycnc.mp4" type="video/mp4">
 </video>

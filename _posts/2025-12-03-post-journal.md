@@ -10,19 +10,17 @@ It is the first day back from break. I am working on the Solenoid. I created a s
 
 Videos here
 
-<video controls width="640">
-  <source src="/assets/videos/solenoidtest1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <video controls width="640">
+  <source src="{{ site.baseurl }}/assets/videos/solenoidtest1.mp4" type="video/mp4">
 </video>
 
 <video controls width="640">
-  <source src="/assets/videos/solenoidtest2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="{{ site.baseurl }}/assets/videos/solenoidtest2.mp4" type="video/mp4">
 </video>
 
+
 <video controls width="640">
-  <source src="/assets/videos/solenoidresistance.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="{{ site.baseurl }}/assets/videos/solenoidresistance.mp4" type="video/mp4">
 </video>
 
 Tools used 

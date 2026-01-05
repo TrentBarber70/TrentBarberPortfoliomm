@@ -10,16 +10,14 @@ I have finally got the device to add numbers. Each button now has its own value 
 
 Videos here 
 
+
 <video controls width="640">
-  <source src="/assets/videos/67buttonprint.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="{{ site.baseurl }}/assets/videos/67buttonprint.mp4" type="video/mp4">
 </video>
 
 <video controls width="640">
-  <source src="/assets/videos/67buttonlights.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="{{ site.baseurl }}/assets/videos/67buttonlights.mp4" type="video/mp4">
 </video>
-
 
 Tools used 
 none 
