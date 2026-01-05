@@ -29,7 +29,38 @@ Some issues that I've been having is the process in making a solenoid. Though I 
 
 ## My files 
 
-<a href="https://drive.google.com/drive/folders/1dUx14gw7HY6nLYMXidwanSBqCl0bzjTq?usp=drive_link">Drive link</a>
+<p>
+  <a href="{{ 'assets\STL\Back panel v6.stl' | relative_url }}" download>Cabinet STL files</a>
+</p>
+
+<p>
+  <a href="{{ 'assets\STL\Plunger.zip' | relative_url }}" download>Plunger STL files</a>
+</p>
+
+<p>
+  <a href="{{ 'assets\STL\Solenoid.zip' | relative_url }}" download>Solenoid spool STL files</a>
+</p>
+
+<p>
+  <a href="{{ 'assets\Code\Counter.zip' | relative_url }}" download>67 Counter</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Tools used or being used in the future
 
