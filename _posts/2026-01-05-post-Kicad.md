@@ -1,5 +1,5 @@
 ---
-title: "Journal 01-5-2026"
+title: "Kicad homework"
 categories:
   - Blog2
 ---
