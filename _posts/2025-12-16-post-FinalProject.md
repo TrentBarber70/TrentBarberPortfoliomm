@@ -2,8 +2,8 @@
 
 ## Description 
 My project for the 2025-2026 Advance topics in Engineering course is a half-size Pinaball machine. 
-I was inspired to start this project after viewing a video by Thepinballroom on Youtube. I also was inspired by the 1999 NBA live pinball machine because I like how interactive it was with the user. 
-My project will be diferent from the source project because I plan to incorporate a multiball function into the pinball machine's gameplay that will also trigger a cutscene through an audio cue. 
+I was inspired to start this project after viewing a video by Thepinballroom on Youtube. I also was inspired by the 1997 NBA fastbreak pinball machine because I liked how interactive it was with the user. The reason that I will be using thepinballroom's project is because I think that the amount of detail that they go into is benificial to my project because the video series provides sources to the parts and techniques when it comes to making a DIY pinball macchine. 
+My project will be diferent from the source project because I plan to incorporate a multiball function into the pinball machine's gameplay that will also trigger a cutscene through an audio cue. I will incorporate the audio cue using the DF player mini to play an file that will tell the player that multiball has started. For the multiball function I plan to have the balls be loaded at the top of the playing field manually and then when the switch is triggered the audio will play and the balls will drop onto the playing field. 
 
 ## Original project 
 <a href="https://thepinballroom.com/diy-pinball">Original project</a>
