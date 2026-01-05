@@ -1,7 +1,7 @@
 ---
 title: "Journal 01-5-2026"
 categories:
-  - Bloggg
+  - Blog1
 ---
 
 ## Working on Git webpage 
