@@ -8,6 +8,23 @@ categories:
 
 It is the first day back from break. I am working on the Solenoid. I created a spool and used the 22 awg wire that was in the cabinet to wrap the solenoid by hand. I then sanded down the ends once I was finished wrapping and tested for continuity before I wired it to a 9v DC battery. The pole of the solenoid was a large screw I found in the fablab. I couldn't tell if it was pulling down on the screw but the coil was getting warmer which meant that the current was flowing.
 
+Videos here
+
+<video controls width="640">
+  <source src="/assets/videos/solenoidtest1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="640">
+  <source src="/assets/videos/solenoidtest2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="640">
+  <source src="/assets/videos/solenoidresistance.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Tools used 
 - 3D printer
 

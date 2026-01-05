@@ -18,7 +18,12 @@ I used 12v of AA batteries hooked up in series to test this working solenoid.
 
 <img src="{{ '/assets/images/IMG_0677.jpg' | relative_url }}" alt="IMG_0677" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;"> 
 
-Video of the working Solenoid.
+Video of the working Solenoid
+
+<video controls width="640">
+  <source src="/assets/videos/solenoidworking.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 Tools used 

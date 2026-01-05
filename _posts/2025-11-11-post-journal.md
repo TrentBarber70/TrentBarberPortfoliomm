@@ -6,9 +6,20 @@ categories:
 
 ## Scoring device day 2
 
-I have finally got the device to add numbers. Each button now has its own value and will add that value while keeping memory of the previous values.
+I have finally got the device to add numbers. Each button now has its own value and will add that value while keeping memory of the previous values. The buttons also light up the blue LEDs when pressed.
 
-Video here 
+Videos here 
+
+<video controls width="640">
+  <source src="/assets/videos/67buttonprint.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="640">
+  <source src="/assets/videos/67buttonlights.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 Tools used 
 none 
