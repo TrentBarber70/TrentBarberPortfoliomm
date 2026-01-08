@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 Gemfile.lock
 assets/images/IMG_0659.HEIC
+*.md
