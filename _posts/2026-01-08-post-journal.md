@@ -8,5 +8,5 @@ Today I am mostly finished with the solenoid holder and I printed the holder and
 
 <img src="{{ '/assets/images/Soelnoidholder.png' | relative_url }}" alt="IMG_0677" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;"> 
 
-In this design I am missing a slot in the bacj of the holder for the end of the solenoid to fire out, and the design lacks holes for the wires.
+In this design I am missing a slot in the back of the holder for the end of the solenoid to fire out, and the design lacks holes for the wires.
 I will fox these issue before school tommorow. 
