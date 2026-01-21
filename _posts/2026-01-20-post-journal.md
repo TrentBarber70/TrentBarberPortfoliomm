@@ -10,7 +10,7 @@ Today I reprinted the Flipper bat because it broke off in my bag today and I tes
 Video of the flipper working at 18v
 
 <video controls width="640">
-  <source src="{{ site.baseurl }}assets/videos/12vflipperwbutton.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}/assets/videos/12vflipperwbutton.mp4" type="video/mp4">
 </video>
 
 Assembly ZIP

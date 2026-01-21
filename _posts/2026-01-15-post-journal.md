@@ -12,11 +12,11 @@ Today I wasn't able to do much today in class but at home I finished the flipper
 
 <img src="{{ '/assets/images/24vsolenoid.jpg' | relative_url }}" alt="IMG_0677" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
 
+<p>
+  <a href="{{ '/assets/STL/M4x30screw test.stl' | relative_url }}" download>Tolerance Test</a>
+</p>
+
 Video of 24v solenoid at 12v
 <video controls width="640">
   <source src="{{ site.baseurl }}/assets/videos/24vbuttontestw12v.mp4" type="video/mp4">
 </video>
-
-<p>
-  <a href="{{ '/assets/STL/M4x30screw test.stl' | relative_url }}" download>Tolerance Test</a>
-</p>
