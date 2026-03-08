@@ -7,3 +7,7 @@ tags:
 ---
 
 Today I bought wood filler after suggetion from Mr. Budzichowski to fill in the wood that was stripped from the CNC bed. I then spread it on teh right panel and filled the gaps in the wood. I then also put some wood glue between the layers of the plywood because it was warped and began to split. I secured the adhesion by using the wood clamps. I left to let the wood filler and glue to dry for the day.
+
+<img src="{{ '/assets/images/woodfiller.jpg' | relative_url }}" alt="woodfiller" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
+
+<img src="{{ '/assets/images/splitwood.jpg' | relative_url }}" alt="splitwood" style="max-width:650px;width:100%;height:auto;display:block;margin:18px 0;">
