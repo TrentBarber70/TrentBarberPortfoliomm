@@ -1,7 +1,7 @@
 ---
 title: "Cabinet post processing 2-20-26"
 categories:
-  - journal
+  - journalnn
 tags:
   - Cabinet
 ---

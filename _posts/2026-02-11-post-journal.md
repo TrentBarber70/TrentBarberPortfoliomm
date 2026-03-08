@@ -1,7 +1,7 @@
 ---
 title: "Cabinet shelf 2-11-26"
 categories:
-  - journal
+  - journaluuu
 tags:
   - Cabinet
 ---

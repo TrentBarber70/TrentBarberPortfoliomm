@@ -1,7 +1,7 @@
 ---
 title: "Cabinet files 1-29-26"
 categories:
-  - journal
+  - journalzzzzzz
 tags:
   - Cabinet
 ---

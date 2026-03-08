@@ -1,7 +1,7 @@
 ---
 title: "Cabinet shelf post processing 2-18-26"
 categories:
-  - journal
+  - journaluuuu
 tags:
   - Cabinet
 ---

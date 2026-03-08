@@ -1,7 +1,7 @@
 ---
 title: "Play field faetures 3-01-26"
 categories:
-  - journal
+  - journaltt
 tags:
   - Cabinet
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Play field 3-02-26"
 categories:
-  - journal
+  - journalttt
 tags:
   - Cabinet
 ---

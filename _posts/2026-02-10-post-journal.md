@@ -1,7 +1,7 @@
 ---
 title: "Cabinet post processing 2-10-26"
 categories:
-  - journal
+  - journaluu
 tags:
   - Cabinet
 ---

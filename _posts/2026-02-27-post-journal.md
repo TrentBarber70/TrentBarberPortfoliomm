@@ -1,7 +1,7 @@
 ---
 title: "Play field features 2-27-26"
 categories:
-  - journal
+  - journalt
 tags:
   - Cabinet
 ---

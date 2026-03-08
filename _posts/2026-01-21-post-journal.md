@@ -1,7 +1,7 @@
 ---
 title: "Flipper Mechanism 1-21-26"
 categories:
-  - journal
+  - journalz
 tags:
   - Flipper mechanism
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Finishing the flipper mechanism 2-25-26"
 categories:
-  - journal
+  - journalnnnnn
 tags:
   - Cabinet
 ---
